@@ -22,7 +22,7 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. User Story: __
+## 1. __
 
 __full user story description__
 
