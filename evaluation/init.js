@@ -20,6 +20,7 @@ if (window.location.href.indexOf('http') !== -1) {
     developmentStrategyButton.innerHTML = 'development strategy';
     const developmentStrategyA = document.createElement('a');
     developmentStrategyA.href = './development-strategy';
+    developmentStrategyA.target = '_blank';
     developmentStrategyA.appendChild(developmentStrategyButton);
     validateContainer.appendChild(developmentStrategyA);
 
