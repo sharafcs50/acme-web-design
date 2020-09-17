@@ -15,6 +15,12 @@ if (window.location.href.indexOf('http') !== -1) {
     validateCSS.onclick = () => window.open('https://jigsaw.w3.org/css-validator/validator?uri=' + encodeURIComponent(window.location.href), '_blank');
     validateContainer.appendChild(validateCSS);
 
+    const spellCheckButton = document.createElement('button');
+    // how would you label this button with ARIA?
+    spellCheckButton.innerHTML = 'spelling check';
+    spellCheckButton.onclick = () => window.open(`https://datayze.com/website-spell-checker?domain=${encodeURIComponent(window.location.href)}&parameters=&exclude=&elementtype=limit&elements=&ignored=`, '_blank');
+    validateContainer.appendChild(spellCheckButton);
+
     const developmentStrategyButton = document.createElement('button');
     // how would you label this button with ARIA?
     developmentStrategyButton.innerHTML = 'development strategy';
