@@ -9,3 +9,5 @@ All our services are listed and briefly described.
 You can also request for a quotation on this website. 
 
 We also have newsletters which you can subscribe to.
+
+Lastly, you can also find our contact information and links to our social media pages.
