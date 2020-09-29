@@ -2,7 +2,7 @@
 
 > `Acme-web-development`
 
-write a short description of your project:
+This is a website for people who are looking for web design services. They will probably find a link to this website from a search engine or an ad.
 - Clients who would like to hire someone for professional web design services.
 - They will use it to see the company profile and get the contact information.
 
