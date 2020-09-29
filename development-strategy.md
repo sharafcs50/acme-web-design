@@ -1,10 +1,10 @@
 # Development Strategy
 
-> `name-of-project`
+> `Acme-web-development`
 
 write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+- Clients who would like to hire someone for professional web design services.
+- They will use it to see the company profile and get the contact information.
 
 ## Wireframe
 
@@ -24,7 +24,7 @@ __A User can see my initial repository and live demo__
 
 ## 1. __
 
-__full user story description__
+__The user will be able to browse the website to get the required information about the services, where to contact us and will also be able to request for a quotation.__
 
 ### Repo
 
