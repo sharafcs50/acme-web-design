@@ -10,7 +10,7 @@ This is a website for people who are looking for web design services. They will 
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](https://wireframe.cc/uSXw0G)
 
 ## 0. Set-Up
 
