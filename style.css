@@ -164,4 +164,18 @@ ul#services li{
     background:#e6e6e6;
   }
 
-  
+  footer{
+    padding:20px;
+    margin-top:20px;
+    color:#ffffff;
+    background-color:#35e81d;
+    text-align: center;
+  }
+
+  p#contact-footer{
+      text-align: left;
+  }
+
+  p#social-media{
+    text-align: right;
+}
