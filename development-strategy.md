@@ -63,7 +63,5 @@ __Worked on each section separately__
 ## Finishing Touches
 
 - Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+  - [Readme](https://github.com/sharafcs50/acme-web-design/blob/master/README.md)
 - Validate code to check for any last mistakes
