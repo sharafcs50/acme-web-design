@@ -174,8 +174,12 @@ ul#services li{
 
   p#contact-footer{
       text-align: left;
+      padding:20px;
+      margin-top:20px;
   }
 
   p#social-media{
     text-align: right;
+    padding:20px;
+    margin-top:20px;
 }
