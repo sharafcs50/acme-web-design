@@ -28,19 +28,35 @@ __The user will be able to browse the website to get the required information ab
 
 ### Repo
 
-what branch(es) did you work on?
+Worked on header/footer/newsletter/section/boxes branches for each of the following
+* css
+* index.html
+* about.html
+* services.html
 
 ### HTML
 
-what did you change in the HTML and why?
+* Changed the section HTML Paragraph - Added description
+* Changed the boxes HTML - Added description
+* Changed the footer HTML - Added social media links and Contact information (email and phone number)
 
 ### CSS
 
-what did you change in the CSS and why?
+* Style.css - Changed colour scheme (From orange to green)
+* Style.css - Changed button colour
 
-## 2. ...
+## 2. __
 
-...
+__Worked on each section separately__
+
+* Created a new branch
+* Added code
+* Added the file for staging
+* Committed the file
+* Pushed the branch (using -u origin 'branch name')
+* Checked out to master branch branch
+* Merged the branch with the added code
+* Pushed the master branch to origin
 
 ...
 
